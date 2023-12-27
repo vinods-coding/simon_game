@@ -28,12 +28,9 @@ document.addEventListener("keypress",function(){
             setTimeout(function(){
                 btn.classList.remove("userflash");
             },300);
-    
-
      }
 
-
-     function levelUp() {
+    function levelUp() {
         userseq = [];
         level++;
         h2.innerText=(`Level ${level}`);
