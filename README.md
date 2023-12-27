@@ -18,6 +18,9 @@ The Simon Game is a classic memory game where players have to mimic a sequence o
 
 1. Clone the repository: `git clone https://github.com/your-username/simon-game.git`
 2. Open the `simongame.html` file in your preferred web browser.
+   
+## Game screenshot
+![Screenshot 2023-12-27 143741](https://github.com/vinods-coding/simon_game/assets/154896822/068b6f09-f06b-40c9-8f75-22abb133cf49)
 
 ## Code Structure
 
